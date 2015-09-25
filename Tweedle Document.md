@@ -30,14 +30,14 @@ Including this image: ![From my website](https://farm1.staticflickr.com/471/1966
 
 ##Sub Heading Two
 
-[ ] Lorem ipsum dolor
+[x] Lorem ipsum dolor
 
-[ ] Sit amet, consectetur
+[x] Sit amet, consectetur
 
 [x] Adipiscing elit, sed do
 
-[ ] Eiusmod tempor incididunt
+[x] Eiusmod tempor incididunt
 
-[ ] Eiusmod tempor incididunt
+[x] Eiusmod tempor incididunt
 
 

@@ -1,3 +1,6 @@
+# Project_TweedleDee
+Testing
+
 First Header | Second Header | Third Header | Forth Header
 ------------ | ------------- | ------------ | -------------
 Content from cell 1 | Content from cell 2 | Content from cell 3 | Content from cell 4 | 
@@ -25,19 +28,3 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
 
 Including this image: ![From my website](https://farm1.staticflickr.com/471/19660718138_c8045ed4ba_n.jpg)
-
---------------------------
-
-##Sub Heading Two
-
-[x] Lorem ipsum dolor
-
-[x] Sit amet, consectetur
-
-[x] Adipiscing elit, sed do
-
-[x] Eiusmod tempor incididunt
-
-[x] Eiusmod tempor incididunt
-
-
